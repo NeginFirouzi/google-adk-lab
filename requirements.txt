@@ -1,0 +1,8 @@
+# Core ADK and Google AI libraries
+google-adk[database]==0.3.0
+google-generativeai==0.8.5
+deprecated
+
+# Utilities
+python-dotenv==1.0.1
+ipykernel
