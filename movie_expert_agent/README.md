@@ -17,5 +17,6 @@ It’s a basic prototype for now and definitely needs improvement—but it works
 ## Example Screenshots
 Here’s how it looks in action:
 
-![Screenshot 1](movie_expert_agent/images/Screenshot%200001.png)  
-![Screenshot 2](movie_expert_agent/images/Screenshot%200002.png)
+![La_La_Land](images/La_la_land.png)
+
+![Dark_Knight](images/dark_knight.png)
