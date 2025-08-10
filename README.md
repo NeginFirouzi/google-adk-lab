@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ### 3. Create a .env file in the project root
 
-Make sure you have a .env file at the root of the project with your configuration variables (GEMINI_API_KEY="your_API_key").
+Make sure you have a .env file at the root of the project with your configuration variables (GEMINI_API_KEY="your_API_key", OPENAI_API_KEY).
 
 ### 4. Run the agent with Google ADK Web
 

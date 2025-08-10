@@ -5,4 +5,5 @@ deprecated
 
 # Utilities
 python-dotenv==1.0.1
-ipykernel
+pandas>=1.5
+openai
